@@ -3,18 +3,18 @@
     "notiGroup": true,
     "MAINTENANCE": false,
     "allowInbox": false,
-    "BOTNAME": " 💢 ",
-    "AMDIN_NAME": "Lương Trường Khôi",
+    "BOTNAME": " 💢 Seo Sara ❄️",
+    "AMDIN_NAME": "Đinh Vĩnh Tài",
     "keyRent": "Lunar",
-    "FACEBOOK_ADMIN": "",
-    "PREFIX": ".",
+    "FACEBOOK_ADMIN": "fb.com/dvt2k9",
+    "PREFIX": "/",
     "box_admin": "",
     "ADMINBOT": [
-        "",
+        "61570369617610",
         ""
     ],
     "NDH": [
-        "",
+        "61570369617610",
         ""
     ],
     "autoCleanCache": {
